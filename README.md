@@ -32,6 +32,20 @@ It focuses on **privacy**, **transparency**, and **smart scanning**.
 
 ---
 
+## 📸 Screenshots
+
+### 📱 App Interface
+
+> Screenshots are located in the `screenshots/` directory.
+
+<p align="center">
+  <img src="Screenshots/Screenshot_1.png" width="250" />
+  <img src="Screenshots/Screenshot_2.png" width="250" />
+  <img src="Screenshots/Screenshot_3.png" width="250" />
+</p>
+
+> *(Rename image filenames above if your actual files differ.)*
+
 ## 📌 Future Plans
 - Real-time scanning  
 - Cloud-based threat detection  
